@@ -1,3 +1,3 @@
 add-on,cookie mgmt,ETag,fetch,fingerprinting,frames,javascript,objects,redirect control,referer control,1p/3p granularity,per-site rules,domain level,subdomain level,full URL path control,regex rule support,cosmetic/element hiding,UTM stripping,Web Fonts,WebGL,WebSockets
 A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U
-NoScript,,,x,,x,x,x,,,,,x,,,,,,,,x,x,
+NoScript,,,x,,x,x,x,,,,,x,,,,,,x,x,
