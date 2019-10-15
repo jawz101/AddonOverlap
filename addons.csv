@@ -1,11 +1,12 @@
 add-on,cookie,ETag,fetch/xmlhttprequest,fingerprint,CSS,ping,frame,javascript,images,media,embedded objects/plugins,1p vs 3p,per-site rules,domain level,subdomain level,full URL path control,regex support,cosmetic/element hiding,referer control,UTM stripping,CSP Reports,Web Fonts,WebGL,WebRTC,WebSockets
+*Firefox Settings,x,,,x,,about:config,,x,x,x,x,x,,x,x,,,,about:config,,x,x,about:config,x,
 CanvasBlocker,,,,x,,,,,,,,,,,,,,,,,,,,,
 ClearURLs,,,,,,,,,,,,,,,,,,,,x,,,,,
 NoScript,,,x,,,,x,x,x,x,x,,,x,,,,,,,,x,x,,
 Policy Control,,,x,,x,x,x,x,x,x,x,x,x,x,x,,some,,,,x,x,,,x
 Privacy Badger,x,,,,,,,,,,,,,x,,,,,,some,,,,,
 Privacy Possum,x,x,,x,,,,,,,,,,,,,,,,,,,,,
-ScriptSafe,some,,x,x,,,x,x,,x,x,x,x,x,x,,,,x,some,,,,x,
+ScriptSafe,some,,x,x,,,x,x,,x,x,x,,x,x,,,,x,some,,,,x,
 Smart Referer,,,,,,,,,,,,,,,,,,,x,,,,,,
 uBlock Origin,,,x,,x,,x,x,x,x,,x,x,x,x,x,x,x,,,x,x,,x,x
 uMatrix,x,,x,,x,,x,x,x,x,,x,x,x,x,,,,x,,,,,,
